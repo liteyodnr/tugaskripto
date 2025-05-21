@@ -9,7 +9,7 @@ Aplikasi web untuk enkripsi dan dekripsi teks dan file menggunakan Vigenère Cip
 
 ## Fitur
 - Enkripsi & Dekripsi teks
-- Enkripsi & Dekripsi file biner (PDF, gambar, dll)
+- Enkripsi & Dekripsi file
 - Tampilan hasil dalam Base64
 - Simpan hasil ke file
 
