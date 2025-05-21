@@ -1,4 +1,9 @@
-# Vigenère Cipher GUI - PHP
+#Tugas 1 Kriptografi
+Dibuat oleh :
+Liteyo Danuar_217064416119
+Iman Agus Faisal_207064416152 
+
+# Vigenère Cipher Standard (26 huruf alfabet) 
 
 Aplikasi web untuk enkripsi dan dekripsi teks dan file menggunakan Vigenère Cipher.
 
